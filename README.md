@@ -6,6 +6,5 @@ This is an official implementation for [Multi-stage Multi-recursive-input Fully 
    ```Bash
    make
    make pycaffe
-   ```
-   
-  2.
+   ```  
+  2.Changing the path to your datasets in ./examples/final_results/train_val.prototxt
